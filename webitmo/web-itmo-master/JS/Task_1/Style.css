@@ -1,0 +1,27 @@
+button:not(.LastButton) {
+	border-radius: 10px;
+	background-size: 20px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 3px 3px 3px 24px; 
+}
+
+button:hover {
+	background-color: #662266;
+}
+
+button.FormName {
+	background-image: url("Images/icons8-jetpack-joyride-50.png");
+}
+
+button.Accessory {
+	background-image: url("Images/icons8-pacman-50.png");
+}
+
+button.Reset {
+	background-image: url("Images/icons8-покемон-50.png");
+}
+
+button.Quantity {
+	background-image: url("Images/icons8-супер-марио-50.png");
+}

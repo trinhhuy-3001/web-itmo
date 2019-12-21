@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-indent\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fu",
+				"functionBlock"
+			],
+			[
+				"butt",
+				"buttonDeleteTable"
+			],
+			[
+				"crea",
+				"createTable"
+			],
+			[
+				"fun",
+				"functionBlock"
+			],
+			[
+				"dele",
+				"deleteTable"
+			],
+			[
+				"butto",
+				"buttonDeleteTable"
+			],
+			[
+				"but",
+				"buttonDeleteTable"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"cre",
+				"createTable"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"a",
+				"addTableName"
+			],
+			[
+				"co",
+				"column-count\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"inpu",
+				"inputAddTableName"
+			],
+			[
+				"inser",
+				"insertCell"
+			],
+			[
+				"tabl",
+				"tableBorder"
+			],
+			[
+				"tab",
+				"tableBorder"
+			],
+			[
+				"op",
+				"optionNone"
+			],
+			[
+				"select",
+				"selectTableBorder"
+			],
+			[
+				"se",
+				"selectTableBorder"
+			],
+			[
+				"tx",
+				"txtval"
+			],
+			[
+				"txt",
+				"txtarea"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ine",
+				"innerHTML"
+			],
+			[
+				"inse",
+				"insertCell"
+			],
+			[
+				"ins",
+				"insertRow"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"im",
+				"imagesHeightAdd"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"wi",
+				"Weight"
+			],
+			[
+				"Form",
+				"FormWithButton"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bor-co",
+				"border-color\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/baffoRti/Лабы/Вебка/Вариант_4/stl.css",
+		"/C/baffoRti/Лабы/Вебка/Вариант_4/ind.html",
+		"/C/baffoRti/Лабы/Вебка/СР/index.html",
+		"/C/baffoRti/Лабы/Вебка/СР/Scriptic.js",
+		"/C/baffoRti/Лабы/Вебка/СР/Stylic.css",
+		"/C/baffoRti/Лабы/Вебка/jQuery/JQ.html",
+		"/C/baffoRti/Лабы/Вебка/jQuery/JQ.js",
+		"/C/baffoRti/Лабы/Вебка/jQuery",
+		"/C/baffoRti/Лабы/Вебка/Работа 3/job3.html",
+		"/C/baffoRti/Лабы/Вебка/Работа 3/Java.js",
+		"/C/baffoRti/Лабы/Вебка/МиниКР/Style.css",
+		"/C/baffoRti/Лабы/Вебка/МиниКР/Script.js",
+		"/C/baffoRti/Лабы/Вебка/МиниКР/Index.html",
+		"/C/baffoRti/Лабы/Вебка/Форма/FormStyle.css",
+		"/C/baffoRti/Лабы/Вебка/МиниКР/index.html",
+		"/C/baffoRti/Лабы/Вебка/МиниКР/style.css",
+		"/C/baffoRti/Лабы/Вебка/Форма/Form.html",
+		"/C/baffoRti/Лабы/Вебка/Работа 2/doc.html",
+		"/C/baffoRti/Лабы/Вебка/Form.html",
+		"/C/Users/baffoRti/Downloads/css-1/css-task/style.css",
+		"/C/Users/baffoRti/Downloads/css-1/css-task/index.html",
+		"/C/baffoRti/Лабы/Вебка/FormStyle.css",
+		"/C/baffoRti/Лабы/Вебка/Table.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "JQ.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
